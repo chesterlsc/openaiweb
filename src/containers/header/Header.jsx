@@ -6,6 +6,10 @@ import './header.css';
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
+    <div className="gpt3__header-image">
+      <img src={ai} />
+    </div>
+    <h1 className="Chester">Hello, Chester Web Developer</h1>
       <h1 className="gradient__text">Let&apos;s Build Something amazing with GPT-3 OpenAI</h1>
       <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
 
@@ -20,9 +24,7 @@ const Header = () => (
       </div>
     </div>
 
-    <div className="gpt3__header-image">
-      <img src={ai} />
-    </div>
+    
   </div>
 );
 

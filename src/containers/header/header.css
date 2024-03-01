@@ -31,6 +31,12 @@
   margin-top: 1.5rem;
 }
 
+.gpt3__header .Chester {
+  font-size: 2rem; /* or any other desired size */
+  color: white;
+  margin-bottom: 1rem;
+}
+
 .gpt3__header-content__input {
   width: 100%;
   margin: 2rem 0 1rem;
@@ -170,5 +176,20 @@
   .gpt3__header-content__input button {
     font-size: 12px;
     line-height: 16px;
+  }
+}
+@media (min-width: 1024px) {
+  .gpt3__header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .gpt3__header-image {
+    margin-right: 2rem;
+  }
+
+  .Chester {
+    margin-left: 2rem;
   }
 }
