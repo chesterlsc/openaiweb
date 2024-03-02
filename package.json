@@ -1,6 +1,8 @@
+
 {
-  "name": "gpt3_portfolio",
+  "name": "gpt3-project",
   "version": "0.1.0",
+  "homepage": "https://chesterlsc.github.io/openaiweb/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
