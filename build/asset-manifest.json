@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/openaiweb/static/css/main.6b03a3c0.css",
+    "main.js": "/openaiweb/static/js/main.5043ddd9.js",
+    "static/media/possibility.png": "/openaiweb/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/openaiweb/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/openaiweb/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/openaiweb/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/openaiweb/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/openaiweb/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/ai.png": "/openaiweb/static/media/ai.a6b0d233f6d17e773047.png",
+    "static/media/people.png": "/openaiweb/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/openaiweb/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/openaiweb/index.html",
+    "main.6b03a3c0.css.map": "/openaiweb/static/css/main.6b03a3c0.css.map",
+    "main.5043ddd9.js.map": "/openaiweb/static/js/main.5043ddd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b03a3c0.css",
+    "static/js/main.5043ddd9.js"
+  ]
+}
